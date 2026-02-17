@@ -18,46 +18,43 @@
 ---
 ## About
 
-Mechanical Engineering undergraduate at NIT Calicut working at the intersection of structured engineering thinking and modern software systems.
+Mobile-First Full Stack Developer focused on building structured, scalable systems across web and Flutter applications.
 
-Primary focus areas:
+Mechanical Engineering undergraduate at NIT Calicut applying engineering rigor to frontend architecture, system design, and user experience.
 
-- Frontend architecture and UI systems  
-- Full-stack web applications (React + Supabase/Firebase)  
-- Design systems and reusable component libraries  
-- 3D visualization workflows (Blender)  
-- Engineering-driven product development  
+Primary focus:
+- Flutter & Dart for cross-platform applications
+- React + TypeScript for structured web systems
+- Supabase / Firebase backend integration
+- Mobile-first UI architecture
+- Scalable component design
 
-Open to internships, collaborations, and open-source contribution.
+Member — Google Developer Students Club (GDSC) NITC  
+Role — App Developer
+
 
 ---
 
 ## Tech Stack
 
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
+### Web
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend & Cloud
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### Backend & Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-### Design & 3D
-
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+### Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</br>
+REST APIs • State Management • Mobile-First Design
 
 ---
 
@@ -69,30 +66,101 @@ Open to internships, collaborations, and open-source contribution.
 
 ---
 
-## Current Focus
+## Featured Projects
 
-- Building structured full-stack systems with clean state management  
-- Designing scalable component libraries  
-- Applying mechanical engineering problem-solving to software architecture  
-- Preparing for high-impact internship opportunities  
+### Attendrix
+Smart academic attendance and course management platform built with full-stack architecture.
+
+- Flutter-based mobile workflow
+- Web dashboard version for administrative control
+- Backend integration with Supabase
+- Structured role-based access
+
+Mobile-first system designed for academic environments.
+
+Repository:
+https://github.com/sh1shank/attendrix  
+Web Version:
+https://github.com/sh1shank/attendrix-web
 
 ---
 
-## Connect
+### Studyrix
+Focused academic productivity and study management platform.
+
+- Task and study session structuring
+- Clean UI architecture
+- Backend-driven data persistence
+- Designed with scalability in mind
+
+Repository:
+https://github.com/sh1shank/studyrix
+
+---
+
+### Pytrix
+Lightweight Python-based project exploring structured logic and backend foundations.
+
+- Algorithmic foundations
+- CLI-oriented architecture
+- Backend-oriented thinking
+
+Repository:
+https://github.com/sh1shank/pytrix
+
+---
+
+### NITCMap2025
+Campus navigation and mapping initiative.
+
+- Contribution as App Developer
+- Location-based data handling
+- Collaborative development model
+
+Repository:
+https://github.com/DuffyYT/NITCMap2025
+
+---
+
+## Contact
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/shashankmergu) • 
-[Twitter / X](https://x.com/sh1shank1) • 
-[Instagram](https://instagram.com/sh1shank) • 
-[Email](mailto:shashankmergu@gmail.com)
+<a href="https://linkedin.com/in/shashankmergu">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/sh1shank1">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/sh1shank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:shashankmergu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
+## Availability
+
+Open to internship opportunities in:
+
+- Mobile Application Development (Flutter / Dart)
+- Frontend Engineering (React / TypeScript)
+- Full-Stack Web Development (Mobile-First Systems)
+
+Focused on building structured, scalable, production-ready applications.
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=90&section=footer" width="100%" />
 
 </div>
+
